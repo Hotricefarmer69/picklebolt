@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "ogTitle": "Picklebolt Tournament - Next Gen Pickleball",
+    "ogDescription": "High-energy pickleball tournament benefiting Central High School Tennis. June 19-21, 2025 at Pickler Universe, Carrollton TX.",
+    "ogImage": "/images/og-image.jpg"
+  },
+  "hero": {
+    "title": "PICKLEBOLT",
+    "tagline": "June 19-21st",
+    "prizePool": "$2000 Money Ball",
+    "eventDate": "June 19, 2025",
+    "countdownDate": "2025-06-19T09:00:00",
+    "venueName": "Pickler Universe",
+    "venueAddress": "2800 N Interstate 35E, Carrollton, TX 75007",
+    "venueCity": "Carrollton, TX",
+    "heroImage": "[DROP IMAGE: HERO_ACTION]",
+    "registerUrl": "#",
+    "registerText": "Pickleball Brackets Sign-Up Coming Soon",
+    "registerDisabled": true,
+    "donateUrl": "/money-distribution"
+  },
+  "about": {
+    "description": "A non-profit tournament company where community interaction and inclusion comes before charity earnings. A Friday coed moneyball followed by 2 days of mens, womens, and mixed doubles brings a reason to sign-up and play. 100% of profits go directly to the Central High School Tennis Program to support costs associated with equipment, uniforms, travel, and facilities.",
+    "learnMoreUrl": "/money-distribution"
+  },
+  "pillars": {
+    "inclusive": {
+      "title": "INCLUSIVE",
+      "description": "From amateur (2.0-2.5) divisions to 4.5+ there is an opportunity for everyone to explore camaraderie in an empowering way."
+    },
+    "competitive": {
+      "title": "COMPETITIVE",
+      "description": "Win cash from the moneyball, medals from regular divisions, and raffle SWAG from just simply registering.",
+      "medalImage": "[DROP IMAGE: PICKLEBOLT_MEDAL]"
+    },
+    "cause": {
+      "title": "FOR A CAUSE",
+      "description": "Every contribution makes a difference for the future generations of Tennis and Pickleball.",
+      "donateUrl": "/money-distribution"
+    }
+  },
+  "stats": {
+    "playersRegistered": 800,
+    "totalRaised": 80000
+  },
+  "event": {
+    "registrationFee": "$35 registration fee",
+    "divisionFee": "$25 division fee for doubles OR $50 for moneyball",
+    "format": "Pool play (first to 15, win by 2) → single elimination bracket (everyone in pool advances) → medal matches (2/3 to 11, win by 2)",
+    "scheduleDetails": "[DROP TEXT: SCHEDULE_DETAILS]",
+    "whatYouGet": ["At least 4 competitive matches", "Free raffle entry", "Guarantee of no pool bigger than 6 people"],
+    "venueImage": "[DROP IMAGE: PICKLER_UNIVERSE_VENUE]"
+  },
+  "moneyDistribution": {
+    "totalRaised": 80000,
+    "teamImage": "[DROP IMAGE: CHS_TENNIS_TEAM]",
+    "breakdown": [
+      {
+        "category": "Trips",
+        "amount": 30000,
+        "description": "Waco, Corpus Christi, Abilene - tourney costs, travel",
+        "percentage": 37.5
+      },
+      {
+        "category": "Equipment",
+        "amount": 35000,
+        "description": "Uniforms, bags, balls, grips",
+        "percentage": 43.75
+      },
+      {
+        "category": "Opportunity",
+        "amount": 15000,
+        "description": "Private coaching & seminars for players",
+        "percentage": 18.75
+      }
+    ]
+  },
+  "sponsors": {
+    "premier": [
+      {
+        "name": "Pickler Universe",
+        "logo": "/images/screenshot-202026-01-04-20at-2011.png",
+        "tagline": "Leading the pickleball revolution with innovative content and community building",
+        "website": "[DROP LINK: PICKLER_UNIVERSE_WEBSITE]"
+      },
+      {
+        "name": "Bread & Butter",
+        "logo": "/images/screenshot-202026-01-04-20at-2011.png",
+        "tagline": "Premium equipment and training for serious players",
+        "website": "[DROP LINK: BREAD_BUTTER_WEBSITE]"
+      },
+      {
+        "name": "Yonex",
+        "logo": "/images/screenshot-202026-01-04-20at-2011.png",
+        "tagline": "Professional equipment and gear",
+        "website": "[DROP LINK: YONEX_WEBSITE]"
+      },
+      {
+        "name": "Revolin Sports",
+        "logo": "/images/screenshot-202026-01-04-20at-2011.png",
+        "tagline": "Innovative sports equipment",
+        "website": "[DROP LINK: REVOLIN_SPORTS_WEBSITE]"
+      },
+      {
+        "name": "Bodhi Pickleball",
+        "logo": "[DROP LOGO: BODHI_PICKLEBALL]",
+        "tagline": "Premium pickleball equipment",
+        "website": "[DROP LINK: BODHI_PICKLEBALL_WEBSITE]"
+      }
+    ],
+    "eliteDonors": ["Todd Jones", "Gabriel Tardio", "Tom VanOevelen", "Noe Khilf"],
+    "sponsorshipPdf": "[DROP LINK: SPONSORSHIP_PDF_OR_FORM]"
+  },
+  "contact": {
+    "email": "Picklebolt.services@gmail.com",
+    "phone": "(903) 980-1483"
+  },
+  "founder": {
+    "name": "Petr Sakharov",
+    "photo": "[DROP IMAGE: PETR_PHOTO]",
+    "instagram": "[DROP LINK: PETR_INSTAGRAM]",
+    "myReason": "$700 Million in debt; that's the origin of Picklebolt.\n\nFacing severe budget cuts after COVID, Keller ISD cut funding to athletic programs across the district. One stood too close to heart: Tennis. As varsity captain, I understood playing with three-year-old tennis balls and limited personalized coaching set my team back as we pushed towards 6A regionals.",
+    "whoAmI": "I'm a 17 year old senior at Central High School that saw a vision to change something I've seen develop for nearly a decade. Being a part of the tennis program through summer drills and my sibling, I've been alongside Central Tennis since 4th grade. Now, as a 4th year varsity player and 2nd year captain, I took it into my hands to revolutionize our program and make a change that was once only a dream."
+  },
+  "branding": {
+    "logo": "[DROP IMAGE: LOGO_SVG_OR_PNG]"
+  },
+  "footer": {
+    "copyright": "© 2025 Picklebolt. All rights reserved.",
+    "benefiting": "Benefiting Central High School Tennis",
+    "developer": "Designed and developed by Subha Karki"
+  }
+}
